@@ -9,7 +9,7 @@
 }
 
 body{
-    background-image: url('/pictures/kalen-emsley-Bkci_8qcdvQ-unsplash.jpg');
+    background-image: url('./pictures/kalen-emsley-Bkci_8qcdvQ-unsplash.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
